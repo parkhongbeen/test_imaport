@@ -128,3 +128,5 @@ MEDIA_ROOT = os.path.join(ROOT_DIR, '.media')
 MEDIA_URL = '/media/'
 
 # iamport api
+iamport_key = '4801016343479749'
+iamport_secret = 'iYZIrFgSwm5zwKTY3nM07hZ1t7DeLOv3NvLfb28HodgVY9T1wG2EX1Fr8jFU8bXWHJbSLjzawQ5u0Zwx'
